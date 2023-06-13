@@ -10,7 +10,9 @@ namespace first
     {
         static void Main(string[] args)
         {
-            throw new Exception("hahaha ha");
+            int pointless = 0;
+            pointless = 0;
+            throw new Exception("hahaha");
         }
     }
 }
